@@ -64,6 +64,7 @@ ModelImporter:
     400056: RHINOCEROS_ Spine
     400058: RHINOCEROS_ Pelvis
     7400000: Take 001
+    9500000: //RootNode
     11100000: //RootNode
   materials:
     importMaterials: 1
@@ -74,7 +75,7 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
-    animationCompression: 0
+    animationCompression: 3
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
@@ -114,8 +115,8 @@ ModelImporter:
     armStretch: .0500000007
     legStretch: .0500000007
     feetSpacing: 0
-    rootMotionBoneName: 
+    rootMotionBoneName: RHINOCEROS_
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
+  animationType: 2
   additionalBone: 0
   userData: 
