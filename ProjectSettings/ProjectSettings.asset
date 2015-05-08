@@ -72,6 +72,7 @@ PlayerSettings:
   metroEnableLowLatencyPresentationAPI: 0
   productGUID: 0086036c33305704294abb2f69fd081d
   iPhoneBundleVersion: 1.4
+  iPhoneShortBundleVersion: 1.1
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 9
   AndroidPreferredInstallLocation: 0
@@ -294,7 +295,7 @@ PlayerSettings:
   intPropertyNames:
   - iOS::Architecture
   - iOS::ScriptingBackend
-  iOS::Architecture: 2
+  iOS::Architecture: 0
   iOS::ScriptingBackend: 0
   firstStreamedLevelWithResources: 0
   unityRebuildLibraryVersion: 9
